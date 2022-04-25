@@ -1,0 +1,8 @@
+disabled: []
+enabled:
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: dsznajder.es7-react-js-snippets
+    uuid: 19804510-b475-4dae-b0f7-6ca08fd1af0c
+  - id: ghmcadams.lintlens
+    uuid: 66ed4827-7677-462f-85a9-d09d0f6a71a5
